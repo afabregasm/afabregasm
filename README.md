@@ -1,4 +1,4 @@
-![Header image](https://i.imgur.com/XV8NunC.png)
+![Header image](https://i.imgur.com/LfFIDZG.png)
 
 ## About me 🤘🏻
 
@@ -26,7 +26,7 @@ const andrea = {
 ---
 
 Contact me!
-<a href="https://www.facebook.com/afabregasm/">
+<a href="https://www.facebook.com/afabregasm">
 <img align="right" alt="Andrea's Behance" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" />
 </a>
 <a href="https://www.behance.net/afabregasm">
