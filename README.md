@@ -1,4 +1,4 @@
-![Header image](https://www.dropbox.com/s/drws6c9nxan2nkg/591316130765329.png)
+![Header image](https://i.imgur.com/mXBGYQE.png)
 
 ## About me 🤘🏻
 
@@ -25,24 +25,12 @@ const andrea = {
 
 ---
 
-<a href="https://linkedin.com/in/afabregasm">
-  <img align="left" alt="Andrea's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+Contact me! <a href="https://linkedin.com/in/afabregasm">
+<img align="left" alt="Andrea's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://www.behance.net/afabregasm">
-  <img align="left" alt="Andrea's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
+<img align="left" alt="Andrea's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
 </a>
-
-<!--
-**afabregasm/afabregasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.facebook.com/afabregasm/">
+<img align="left" alt="Andrea's Behance" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" />
+</a>
