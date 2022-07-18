@@ -3,7 +3,7 @@
 ## About me 🤘🏻
 
 ```javascript
-const andrea = {
+const afabregasm = {
   fullName: "Andrea Fàbregas Martínez",
   location: "Barcelona",
   hobbies: [
@@ -23,15 +23,20 @@ const andrea = {
 };
 ```
 
+<details>
+<summary>Check my projects</summary>
+
+### <img alt="Love" width="16px" src="https://i.imgur.com/uxdcz8G.png" /> Yuna Clicker
+
+<a href="https://afabregasm.github.io/yuna-clicker/"><img style="border-radius:3px;" alt="Yuna Clicker" src="https://i.imgur.com/xTeesbb.png" /></a><br />
+A game about giving love to Yuna, the best dog ever.<br />
+Developed with: HTML, CSS & JavaScript (check the repo <a href="https://github.com/afabregasm/yuna-clicker">here</a>).
+
+</details>
+
 ---
 
 Contact me!
-<a href="https://www.facebook.com/afabregasm">
-<img align="right" alt="Andrea's Behance" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" />
-</a>
-<a href="https://www.behance.net/afabregasm">
-<img align="right" alt="Andrea's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
-</a>
-<a href="https://linkedin.com/in/afabregasm">
-<img align="right" alt="Andrea's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
+<a href="https://www.facebook.com/afabregasm"><img align="right" alt="Andrea's Behance" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" /></a>
+<a href="https://www.behance.net/afabregasm"><img align="right" alt="Andrea's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" /></a>
+<a href="https://linkedin.com/in/afabregasm"><img align="right" alt="Andrea's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" /></a>
