@@ -28,7 +28,7 @@ const afabregasm = {
 
 ### <img alt="Love" width="16px" src="https://i.imgur.com/uxdcz8G.png" /> Yuna Clicker
 
-<a href="https://afabregasm.github.io/yuna-clicker/"><img style="border-radius:3px;" alt="Yuna Clicker" src="https://i.imgur.com/xTeesbb.png" /></a><br />
+<a href="https://afabregasm.github.io/yuna-clicker/"><img style="border-radius: 3px;" alt="Yuna Clicker" src="https://i.imgur.com/xTeesbb.png" /></a><br />
 A game about giving love to Yuna, the best dog ever.<br />
 Developed with: HTML, CSS & JavaScript (check the repo <a href="https://github.com/afabregasm/yuna-clicker">here</a>).
 
