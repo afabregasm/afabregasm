@@ -1,12 +1,36 @@
-![Header image](https://media-exp1.licdn.com/dms/image/C5616AQGe971YoghmYQ/profile-displaybackgroundimage-shrink_350_1400/0/1539711663258?e=1663804800&v=beta&t=7-Bq8wMd2R5Emd5o6QekjdNWf2_VBsegU2xOKV2PcKg)
+![Header image](https://www.dropbox.com/s/drws6c9nxan2nkg/591316130765329.png)
 
-## Hi there! I'm Andrea 🤘🏻
+## About me 🤘🏻
 
-I'm a spanish girl who loves coding 💻, animals 🐶, music 🎸 and videogames 🎮
+```javascript
+const andrea = {
+  fullName: "Andrea Fàbregas Martínez",
+  location: "Barcelona",
+  hobbies: [
+    "Coding 💻",
+    "Design 🎨",
+    "Music 🎸",
+    "Videogames 🎮",
+    "Animals 🐶",
+  ],
+  technologies: {
+    language: "JavaScript",
+    frontEndTools: ["HTML", "CSS", "React", "Bootstrap"],
+    backEndTools: ["Node", "Express", "MongoDB", "Mongoose"],
+    desingTools: ["Photoshop", "Illustrator", "InDesign", "Premiere Pro"],
+  },
+  currentFocus: "Keep learning and improving my tech and creative skills.",
+};
+```
 
-- 🌱 I’m currently learning MERN stack at Ironhack Barcelona.
-- 📫 How to reach me: ...
-  [![Linkedin Badge](https://img.shields.io/badge/-afabregasm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afabregasm/)](https://www.linkedin.com/in/afabregasm/)
+---
+
+<a href="https://linkedin.com/in/afabregasm">
+  <img align="left" alt="Andrea's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://www.behance.net/afabregasm">
+  <img align="left" alt="Andrea's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
+</a>
 
 <!--
 **afabregasm/afabregasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
