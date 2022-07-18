@@ -1,4 +1,4 @@
-![Header image](https://i.imgur.com/8uFi3WM.png)
+![Header image](https://i.imgur.com/KnB2RgT.png)
 
 ## About me
 
