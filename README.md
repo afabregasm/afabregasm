@@ -15,9 +15,10 @@ const afabregasm = {
   ],
   technologies: {
     language: "JavaScript",
-    frontEndTools: ["HTML", "CSS", "React", "Bootstrap"],
-    backEndTools: ["Node", "Express", "MongoDB", "Mongoose"],
+    frontEndTools: ["React", "HTML", "CSS", "SASS"],
+    backEndTools: ["Node", "Express", "MongoDB", "Mongoose", "RESTful"],
     desingTools: ["Photoshop", "Illustrator", "InDesign"],
+    otherTools: ["Git", "Jest", "Mocha"]
   },
   currentFocus: "Keep learning and improving my tech and creative skills.",
 };
