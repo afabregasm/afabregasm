@@ -18,7 +18,7 @@ const afabregasm = {
     frontEndTools: ["React", "HTML", "CSS", "SASS"],
     backEndTools: ["Node", "Express", "MongoDB", "Mongoose", "RESTful"],
     desingTools: ["Photoshop", "Illustrator", "InDesign"],
-    otherTools: ["Git", "Jest", "Mocha"]
+    others: ["Git", "Jest", "Mocha", "VSCode"]
   },
   currentFocus: "Keep learning and improving my tech and creative skills.",
 };
