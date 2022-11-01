@@ -35,6 +35,6 @@ Developed with: JavaScript, HTML & CSS (check the repo <a href="https://github.c
 ---
 
 Contact me!
-<a href="https://www.facebook.com/afabregasm"><img align="right" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" alt="Andrea's Facebook" /></a>
 <a href="https://www.behance.net/afabregasm"><img align="right" width="20px" src="https://simpleicons.now.sh/behance/495f7e" alt="Andrea's Behance" /></a>
 <a href="https://linkedin.com/in/afabregasm"><img align="right" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" alt="Andrea's LinkedIn" /></a>
+<a href="mailto:contact@afabregasm.com"><img align="right" width="20px" src="https://simpleicons.now.sh/maildotru/495f7e" alt="Andrea's Facebook" /></a>
