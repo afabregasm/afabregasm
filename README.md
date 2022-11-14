@@ -26,11 +26,23 @@ const afabregasm = {
 
 ## My projects
 
-### <img width="15px" src="https://i.imgur.com/uxdcz8G.png" alt="Love" /> Yuna Clicker
+### Yuna Clicker
 
 <a href="https://afabregasm.github.io/yuna-clicker/"><img src="https://i.imgur.com/xTeesbb.png" alt="Yuna Clicker" /></a><br />
 A game about giving love to Yuna, the best dog ever.<br />
 Developed with: JavaScript, HTML & CSS (check the repo <a href="https://github.com/afabregasm/yuna-clicker">here</a>).
+
+### Metalify
+
+<a href="https://metalify-project.herokuapp.com/"><img src="https://i.imgur.com/GOMjA47.png" alt="Metalify" /></a><br />
+A web for all your metal needs 🤘🏻<br />
+Developed with: JavaScript, Node, Express, Mongo & RESTful (check the repo <a href="https://github.com/afabregasm/metalify">here</a>).
+
+### Portfolio
+
+<a href="http://afabregasm.herokuapp.com/"><img src="https://i.imgur.com/6k3J5gW.png" alt="afabregasm" /></a><br />
+My own portfolio!<br />
+Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href="https://github.com/afabregasm/portfolio-front">here</a>).
 
 ---
 
